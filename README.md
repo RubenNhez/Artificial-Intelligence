@@ -12,11 +12,11 @@ Deep Learning is a practical subject, somewhat similar to alchemy. We have to ge
 
 We learn by doing. Our labs are therefore a fundamental component of the module.
 
-```
 
 Good luck!
 
 # Learning Outcomes
+
 Students who successfully complete this module will be able to:
 
 Apply the core principles of at least one contemporary AI technique to Implement a contemporary AI technique using state-of-the-art technology
